@@ -22,8 +22,7 @@ My thesis is on functional diffusion processes over the sphere under the advisem
 <strong><a href="https://arxiv.org/abs/2502.04158">
 Diffusion-based mass map reconstruction from weak lensing data
 </a></strong><br>
-Supranta S. Boruah*, <strong>Michael Jacob*</strong>, Bhuvnesh Jain  
-<span style="font-size: 0.9em;">(*co-first author)</span><br>
+Supranta S. Boruah*, <strong>Michael Jacob*</strong>, Bhuvnesh Jain  <span style="font-size: 0.9em;">(*co-first author)</span><br>
 <span style="color: gray;">Physical Review D, 2025</span>
 
 </div>
