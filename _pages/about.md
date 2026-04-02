@@ -24,7 +24,7 @@ Diffusion-based mass map reconstruction from weak lensing data
 </a></strong><br>
 Supranta S. Boruah*, <strong>Michael Jacob*</strong>, Bhuvnesh Jain  
 <span style="font-size: 0.9em;">(*co-first author)</span><br>
-<span style="color: gray;">arXiv preprint, 2025</span>
+<span style="color: gray;">Physical Review D, 2025</span>
 
 </div>
 
@@ -35,6 +35,6 @@ Supranta S. Boruah*, <strong>Michael Jacob*</strong>, Bhuvnesh Jain
 High-resolution weak lensing mass mapping from DES-Y3 data using diffusion-based prior
 </a></strong><br>
 Supranta S. Boruah, <strong>Michael Jacob</strong>, Bhuvnesh Jain, Riya Maiya, Raghav Venkataramanan<br>
-<span style="color: gray;">arXiv preprint, 2025</span>
+<span style="color: gray;">NeurIPS ML4PS Workshop, 2025</span>
 
 </div>
