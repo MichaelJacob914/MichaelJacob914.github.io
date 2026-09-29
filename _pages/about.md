@@ -22,7 +22,7 @@ I am always happy to talk about research, so please feel free to reach out!
 <strong><a href="https://arxiv.org/abs/2502.04158">
 Diffusion-based mass map reconstruction from weak lensing data
 </a></strong><br>
-[Supranta S. Boruah*](https://supranta.github.io/), <strong>Michael Jacob*</strong>, Bhuvnesh Jain  <span style="font-size: 0.9em;">(*co-first author)</span><br>
+Supranta S. Boruah*, <strong>Michael Jacob*</strong>, Bhuvnesh Jain  <span style="font-size: 0.9em;">(*co-first author)</span><br>
 <span style="color: gray;">Physical Review D, 2025</span>
 
 </div>
